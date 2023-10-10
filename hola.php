@@ -1,3 +1,3 @@
 <?php
-echo "Hola Mundo\n"
+@print "Hola{$argb[1]}\n";
 ?>
