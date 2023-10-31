@@ -1,3 +1,4 @@
 #AUTHORS
 
-* Iván Jiménez
+* Iván Jiménez <ivanjimenezquintero@outlook.com>
+* John Doe
